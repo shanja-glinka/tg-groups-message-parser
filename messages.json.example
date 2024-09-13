@@ -1,6 +1,6 @@
 {
-  "message_redirected": "Сообщение из другой группы:{re}",
-  "message_deleted": "Сообщение было удалено. Ссылка на удаленное сообщение: {link}",
-  "message_edited": "Сообщение было изменено. Посмотреть оригинал: {link}",
-  "forward_error": "Ошибка пересылки сообщения. Невозможно переслать это сообщение."
+  "message_redirected": "Message from another group:{re}",
+  "message_deleted": "The message has been deleted. Link to deleted message: {link}",
+  "message_edited": "The message has been changed. View original: {link}",
+  "forward_error": "Message forwarding failed. This message cannot be forwarded."
 }
